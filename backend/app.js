@@ -24,7 +24,8 @@ app.use("/ai", aiRoutes)
 
 
 app.get('/', (req, res) => {
-    res.send('Hello World!');
+    res.send('AI Agent Chat App');
 });
 
 export default app; 
+

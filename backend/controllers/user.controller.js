@@ -113,3 +113,4 @@ export const getAllUsersController = async (req, res) => {
 
     }
 }
+
